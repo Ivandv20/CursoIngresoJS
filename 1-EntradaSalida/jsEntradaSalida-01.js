@@ -1,8 +1,6 @@
-/*
-Al presionar el  botón, 
-se debe mostrar un mensaje como el siguiente "Esto funciona de maravilla"*/
+/* Varela Ivan - E/S 01 EJERCICIO*/
 function mostrar()
 {
-	alert("Hola q tal?aa");
+	alert("Esto funciona de maravilla");
 }
 
