@@ -1,6 +1,4 @@
-/*
-Debemos lograr tomar un nombre con 'prompt' 
-y luego mostrarlo por 'alert' al presionar el botón  'mostrar'*/
+/* Varela ivan . E/S 02 EJERCICIO*/
 function mostrar()
 {
  var NombreIngresado;

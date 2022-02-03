@@ -6,6 +6,7 @@ function mostrar()
 	var NombreIngresado;
 	NombreIngresado=txtIdNombre.value;
 	alert(NombreIngresado);
+	
 
 }
 
